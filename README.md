@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @syilan
 - 👀 I’m interested in alot
 - 🌱 I’m currently learning Go and Swagger to program a REST API
-- 💞️ I’m looking to collaborate on Go/C++/Qt
+- 💞️ I’m looking to collaborate on Go/C++/Qt/LoRaWAN
 
 <!---
 syilan/syilan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
