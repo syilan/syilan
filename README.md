@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @syilan
 - 👀 I’m interested in alot
-- 🌱 I’m currently learning Go to program a REST API
+- 🌱 I’m currently learning Go and Swagger to program a REST API
 - 💞️ I’m looking to collaborate on Go/C++/Qt
 
 <!---
